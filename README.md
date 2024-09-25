@@ -10,10 +10,10 @@
 * Decimal operation
   
 ## Build With
-* [![HTML][HTML.js]][Next-url]
-* ![image](https://github.com/user-attachments/assets/887310c0-e271-4f41-972a-08beb648c326)
-* ![image](https://github.com/user-attachments/assets/d64c1618-5066-43d3-8f7c-ac0121f1fd91)
-* ![image](https://github.com/user-attachments/assets/c8353e9e-2504-443d-9ebf-ac791b5dd628)
+* <img vertical-align="middle" margin="auto" height=80 src="https://github.com/user-attachments/assets/887310c0-e271-4f41-972a-08beb648c326">      
+* <img vertical-align="middle" margin="auto" height=80 src="https://github.com/user-attachments/assets/d64c1618-5066-43d3-8f7c-ac0121f1fd91">   
+* <img vertical-align="middle" margin="auto" height=80 src="https://github.com/user-attachments/assets/c8353e9e-2504-443d-9ebf-ac791b5dd628">   
+
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 
