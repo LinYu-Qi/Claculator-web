@@ -1,4 +1,4 @@
-# <img align="center" width=60 src="https://github.com/user-attachments/assets/5c939edf-4282-4ed3-bfa3-30422182e772">    Online Calculator
+# Online Calculator   <img align="center" width=60 src="https://github.com/user-attachments/assets/5c939edf-4282-4ed3-bfa3-30422182e772">    
 
 ## Interface
 <p align="center">
@@ -10,9 +10,10 @@
 * Decimal operation
   
 ## Build With
-* <img vertical-align="middle" margin="auto" height=80 src="https://github.com/user-attachments/assets/887310c0-e271-4f41-972a-08beb648c326">      
-* <img vertical-align="middle" margin="auto" height=80 src="https://github.com/user-attachments/assets/d64c1618-5066-43d3-8f7c-ac0121f1fd91">   
-* <img vertical-align="middle" margin="auto" height=80 src="https://github.com/user-attachments/assets/c8353e9e-2504-443d-9ebf-ac791b5dd628">   
+* HTML  
+* CSS
+* JavaScript
+
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
