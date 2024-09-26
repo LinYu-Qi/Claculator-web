@@ -19,21 +19,5 @@ https://www.freecodecamp.org/news/how-to-build-an-html-calculator-app-from-scrat
 * JavaScript
 
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-
-## Personal information
-<a href="https://www.linkedin.com/in/%E7%A6%B9%E9%BD%8A-%E6%9E%97-117560255/"><strong>MY Linkedlin >> </strong></a>
-
-
-[HTML.js]: https://github.com/user-attachments/assets/887310c0-e271-4f41-972a-08beb648c326
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-
-
-
-
 
 
